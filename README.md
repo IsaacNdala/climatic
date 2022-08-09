@@ -1,5 +1,7 @@
 # climatic
 
+![](project-image.png)
+
 Climatic is a weather application which allow users to have the information of the weather from a certain location through geolocation or city
 
 ## Project setup
